@@ -1,4 +1,4 @@
-STOCK MARKET ANALYSIS FOR TECH STOCKS
+# STOCK MARKET ANALYSIS FOR TECH STOCKS
 
 In this project we will analyse data from the stock market for some technology stocks.
 We will use Pandas to not only extract but also analyse the information.
