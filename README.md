@@ -6,7 +6,7 @@ We will use Pandas to not only extract but also analyse the information.
 Based on the data and information obtained, we will use different visualization techniques to make our conclusions.
 Those conclusions will be in regards to the performance history of the different stocks, with the end-goal being to define their risk factor, amongst other things.
 
-Some questions we tried to answer were:
+Some of the questions we tried to answer were:
   - How did the stock prices fluctuate over time?
   - What was the average daily return of a stock?
   - What was the moving average of different stocks?
