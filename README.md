@@ -12,4 +12,4 @@ Some of the questions we tried to answer were:
   3. What was the moving average of different stocks?
   4. What is the correlation between daily returns of various stocks?
   5. What are the risks of investing in a particular stock?
-  - How could we attempt to predict the behaviour of future stocks?
+  6. How could we attempt to predict the behaviour of future stocks?
