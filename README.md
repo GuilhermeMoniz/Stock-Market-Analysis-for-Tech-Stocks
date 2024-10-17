@@ -8,7 +8,7 @@ Those conclusions will be in regards to the performance history of the different
 
 Some of the questions we tried to answer were:
   1. How did the stock prices fluctuate over time?
-  - What was the average daily return of a stock?
+  2. What was the average daily return of a stock?
   - What was the moving average of different stocks?
   - What is the correlation between daily returns of various stocks?
   - What are the risks of investing in a particular stock?
